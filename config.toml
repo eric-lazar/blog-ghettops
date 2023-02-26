@@ -1,0 +1,4 @@
+baseURL = 'http://ghettops.com/'
+languageCode = 'en-us'
+title = 'GhettOps Blog - from ClickOps to GitOps'
+theme = "ananke"
